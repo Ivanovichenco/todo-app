@@ -1,1 +1,1 @@
-Aplicacion para mantener viva la facilidad en Laravel
+Aplicacion sencilla para mantener viva la facilidad en Laravel
