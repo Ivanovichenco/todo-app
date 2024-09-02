@@ -7,7 +7,7 @@
         <div class="card">
 
             <div class="card-body">
-                <h3 class="card-title">TODO Edit</h3>
+                <h3 class="card-title">TODO Show</h3>
                 <div class="mb-3">
                     <label for="title" class="form-label">Title</label>
                     <input type="text" name="title" class="form-control" id="title"
